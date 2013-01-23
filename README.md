@@ -12,7 +12,7 @@ git clone git://github.com/joeguo/autothumbnail.git
 go build -o autothumb
 ```
 3. Use the autothumb to monitor a folder:
-```sh
+```
 autothumb [options]
 The options are:
     folder      the folder to monitor, default folder is /var/www/images
