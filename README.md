@@ -26,7 +26,6 @@ for example:
 
 autothumb -folder=/var/www/images -target /var/www/thumbnail -size=400x300 -wait=5
 
-Demo site:[roseo.net](http://roseo.net)
 -----
 
 
